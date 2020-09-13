@@ -4,7 +4,7 @@ Dlib 19.21.0  pre-compiled wheel for windows (windows 10)
 
 
 Installation is super easy:
-downlaod the .whl file
-**command>  pip3 install dlib-19.21.0-cp37-cp37m-win_amd64.whl**
+downlaod the .whl file and install using
+**  command prompt>  pip3  install  dlib-19.21.0-cp37-cp37m-win_amd64.whl  **
 
 
